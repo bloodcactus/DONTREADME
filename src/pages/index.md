@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
 title: DONTREADMES
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/grand-lake-theater.jpg
+heading: ruminations on life in sf
+subheading: staying anonymous, staying truthful
