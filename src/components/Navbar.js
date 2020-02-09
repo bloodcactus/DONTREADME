@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
+import '../base.css';
+
 const Navbar = class extends React.Component {
   constructor(props) {
     super(props)
